@@ -219,5 +219,6 @@ SELECT
 FROM son_tablo order by RFM_Skoru
 
 ```
+<img width="637" height="586" alt="Ekran görüntüsü 2025-10-15 192305" src="https://github.com/user-attachments/assets/04761119-91b0-4f92-bba6-06c81596243a" />
 
 
